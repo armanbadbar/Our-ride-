@@ -1,0 +1,3 @@
+{
+  "expo":{"name":"Our Ride","slug":"our-ride","version":"1.0.0","orientation":"portrait","scheme":"ourride","userInterfaceStyle":"automatic","ios":{"supportsTablet":true,"bundleIdentifier":"com.ourride.app"},"android":{"package":"com.ourride.app","adaptiveIcon":{"backgroundColor":"#111827"}},"plugins":["expo-router"]}
+}
